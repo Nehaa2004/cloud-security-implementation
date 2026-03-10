@@ -26,3 +26,13 @@ After completing the configuration, I logged out from the root account and logge
 Through this task, I learned how IAM policies help implement cloud security by controlling user access and applying the principle of least privilege.
 
 output
+
+<img width="1882" height="818" alt="Image" src="https://github.com/user-attachments/assets/983c80de-1235-46aa-bcaf-dbe3dcabb668" />
+
+<img width="1872" height="787" alt="Image" src="https://github.com/user-attachments/assets/4778e221-0ed7-4530-a201-d0a17efad073" />
+
+<img width="1902" height="760" alt="Image" src="https://github.com/user-attachments/assets/f643b0f1-4b8a-4365-8eba-abf06bc3034e" />
+
+<img width="1871" height="791" alt="Image" src="https://github.com/user-attachments/assets/f66b542a-910a-4b08-b325-339e4b26e6d7" />
+
+<img width="1871" height="791" alt="Image" src="https://github.com/user-attachments/assets/61dde1db-1cc7-4902-9ac6-19050a79a4bc" />
